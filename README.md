@@ -1,7 +1,6 @@
 # PyTanki - Tank Game for Python Learning
 
 PyTanki is a tank game designed to facilitate the learning process for students who wish to grasp fundamental concepts of Python programming and computer science. The game focuses on simplifying the codebase using Pygame and encapsulates various functionalities, allowing students to grasp a minimal set of functions while constructing a complete and engaging game.
-![pytanki logo](https://github.com/ariel-pi/pytanki/blob/main/pytanki_logo_img.jpg?raw=true)
 <div align="center">
   <p>click on the image below for watching!</p>
   <a href="https://www.youtube.com/watch?v=TeQ8oLpG4fU">
