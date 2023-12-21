@@ -54,14 +54,14 @@ To get started with PyTanki, follow these steps:
 
 If you encounter any issues or have queries related to PyTanki, feel free to reach out by raising an issue in the repository or contacting the project maintainers.
 
+
+## Contributing
 ### Contributors
 
 - Ariel Pinhas - Sole Developer/Creator
 - [GitHub](https://github.com/ariel-pi)
 - [Linkdin](http://www.linkedin.com/in/ariel-pinhas)
 
-
-## Contributing
 
 Contributions to PyTanki are welcome! If you'd like to contribute enhancements, bug fixes, or new features, please fork this repository, make your changes, and submit a pull request.
 
